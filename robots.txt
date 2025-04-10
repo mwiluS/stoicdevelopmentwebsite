@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /success.html/
+Disallow: /success.html
 
 Sitemap: https://www.stoicdevelopment.com/sitemap.xml
