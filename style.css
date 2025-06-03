@@ -415,13 +415,13 @@ div.mission p, div.vision p{
     font-weight: 500;
 }
 
-.mission h3{
+.mission h2{
     text-align: center;
     padding: 10px 100px;
     font-size: 36px;
 }
 
-.vision h3{
+.vision h2{
     text-align: center;
     padding: 10px 100px;
     font-size: 32px;
