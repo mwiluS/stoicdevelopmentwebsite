@@ -415,7 +415,7 @@ div.mission p, div.vision p{
     font-weight: 500;
 }
 
-div.mission h2, div.vision h2{
+div.mission h3, div.vision h3{
     text-align: center;
     padding: 10px 100px;
     font-size: 36px;
