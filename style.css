@@ -383,7 +383,7 @@ div.infos{
     text-align: center;
 }
 
-.values h2{
+h2.vals{
     text-align: center;
     font-family: var(--fas);
     margin: 0 0 80px 0;
@@ -415,16 +415,10 @@ div.mission p, div.vision p{
     font-weight: 500;
 }
 
-.mission h2{
+div.mission h2, div.vision h2{
     text-align: center;
     padding: 10px 100px;
     font-size: 36px;
-}
-
-.vision h2{
-    text-align: center;
-    padding: 10px 100px;
-    font-size: 32px;
 }
 
 .dictionary{
