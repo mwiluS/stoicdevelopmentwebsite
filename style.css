@@ -162,7 +162,7 @@ div.firstLine{
 div.pages{
     display: flex;
     flex-direction: row;
-    margin: 0 100px;
+    margin: 0 20px;
     padding: 0 20px;
     list-style: none;
     border-left: 2px solid white;
