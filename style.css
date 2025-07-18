@@ -433,7 +433,7 @@ div.mission h3, div.vision h3{
 
 .infoValue, .integrity, .love, .collaboration, .transparency{
     width: 100%;
-    height: 380px;
+    height: 500px;
     text-align: center;
     display: flex;
     flex-direction: column;
